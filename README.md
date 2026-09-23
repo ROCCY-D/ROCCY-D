@@ -1,16 +1,23 @@
-## Hi there 👋
+# ROCC.
 
-<!--
-**ROCCY-D/ROCCY-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Build. Renovate. Electrify.**
 
-Here are some ideas to get you started:
+ROCC is een Belgisch aannemingsbedrijf uit Kortrijk. Twee divisies, één standaard: vakmanschap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ROCC Contracting.
+
+Bij ROCC Contracting kunt u terecht voor ruwbouw, gevelrestauratie en afwerking. Restaureren is geen renoveren. Wij werken met respect voor het oorspronkelijke materiaal en de oorspronkelijke techniek.
+
+## ROCC Electric.
+
+Bij ROCC Electric kunt u terecht voor industriële elektriciteit, batterijopslag (BESS) en hernieuwbare energie. Van ontwerp tot oplevering, zonder omwegen.
+
+## Over deze GitHub.
+
+Hier staan de interne tools en koppelingen van ROCC. Denk aan scripts voor Robaws, Odoo en planning. De repositories zijn privé tenzij anders vermeld.
+
+RUWBOUW. GEVELRESTAURATIE. ELEKTRICITEIT. BESS.
+
+---
+
+[www.rocc.eu](https://www.rocc.eu) — info@rocc.eu — +32 56 14 66 01
