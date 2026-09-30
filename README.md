@@ -16,8 +16,6 @@ Bij ROCC Electric kunt u terecht voor industriële elektriciteit, batterijopslag
 
 Hier staan de interne tools en koppelingen van ROCC. Denk aan scripts voor Robaws, Odoo en planning. De repositories zijn privé tenzij anders vermeld.
 
-RUWBOUW. GEVELRESTAURATIE. ELEKTRICITEIT. BESS.
-
 ---
 
 [www.rocc.eu](https://www.rocc.eu) — info@rocc.eu — +32 56 14 66 01
